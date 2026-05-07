@@ -56,13 +56,13 @@ const Hero: React.FC = () => {
           </p>
 
           {/* Shop Button */}
-          <button className="bg-[#d0833d] flex items-center justify-center 
+          <a href="#products" className="bg-[#d0833d] flex items-center justify-center 
             px-[22px] py-[11px] rounded-[14.16px] text-[17.3px]
             md:px-[24px] md:py-[12px] md:rounded-[16px] md:text-[18px]
             xl:px-[28px] xl:py-[14px] xl:rounded-[18px] xl:text-[22px] 
             text-white font-['Outfit',sans-serif] font-semibold transition-all hover:bg-[#d0833d]/90">
             Shop Now
-          </button>
+          </a>
         </div>
       </div>
     </section>
