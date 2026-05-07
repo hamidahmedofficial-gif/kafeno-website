@@ -1,5 +1,4 @@
 import React from 'react';
-import stepCircle from '../assets/step-circle.png';
 import step1 from '../assets/step1-icon.svg';
 import step2 from '../assets/step2-icon.svg';
 import step3 from '../assets/step3-icon.svg';
